@@ -6,3 +6,4 @@
 6. buat repo di github
 7. buat commit / git add . & git commit -m "pesan"
 8. kirim ke github / git remote & git push
+9. Tambahan
