@@ -1,1 +1,8 @@
-tes
+1. install git
+2. login ke github
+3. buat folder baru dan isi filenya
+4. atur config ke github / git config --global user.name 
+5. buat repo local baru / git init
+6. buat repo di github
+7. buat commit / git add . & git commit -m "pesan"
+8. kirim ke github / git remote & git push
